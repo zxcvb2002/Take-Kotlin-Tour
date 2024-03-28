@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f66b7de8-170b-47d6-afbe-27efd2047701" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Control flow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Control flow.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2eHjnpn3485d1tdpCxZqrecKUbc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,6 +62,7 @@
     "Gradle.TakeKotlinTour 빌드.executor": "Run",
     "Kotlin.CollectionsKt.executor": "Run",
     "Kotlin.Control_flowKt.executor": "Run",
+    "Kotlin.FunctionsKt.executor": "Run",
     "Kotlin.Hello_worldKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -125,7 +130,7 @@
       <workItem from="1711568567631" duration="9000" />
       <workItem from="1711568593819" duration="366000" />
       <workItem from="1711568970621" duration="300000" />
-      <workItem from="1711586222331" duration="5701000" />
+      <workItem from="1711586222331" duration="7724000" />
     </task>
     <servers />
   </component>

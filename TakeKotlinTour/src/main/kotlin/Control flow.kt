@@ -96,12 +96,15 @@ fun practice4() {
         }
     )
 
-    var pizzaSlices = 0
-    pizzaSlices++
+    var pizzaSlices = 1
     do {
         println("There's only $pizzaSlices slice/s of pizza :(")
         pizzaSlices++
     } while (pizzaSlices < 8)
+//    {
+//        println("There's only $pizzaSlices slice/s of pizza :(")
+//        pizzaSlices++
+//    }
     println("There are $pizzaSlices slices of pizza. Hooray! We have a whole pizza! :D")
 
     for (i in 1..100) {
