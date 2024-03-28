@@ -63,6 +63,7 @@
     "Kotlin.Control_flowKt.executor": "Run",
     "Kotlin.FunctionsKt.executor": "Run",
     "Kotlin.Hello_worldKt.executor": "Run",
+    "Kotlin.Lambda_expressionsKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -129,7 +130,7 @@
       <workItem from="1711568567631" duration="9000" />
       <workItem from="1711568593819" duration="366000" />
       <workItem from="1711568970621" duration="300000" />
-      <workItem from="1711586222331" duration="8845000" />
+      <workItem from="1711586222331" duration="11784000" />
     </task>
     <servers />
   </component>
