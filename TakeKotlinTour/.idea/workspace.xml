@@ -57,6 +57,7 @@
   "keyToString": {
     "Gradle.TakeKotlinTour 빌드.executor": "Run",
     "Kotlin.CollectionsKt.executor": "Run",
+    "Kotlin.Control_flowKt.executor": "Run",
     "Kotlin.Hello_worldKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -76,7 +77,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CollectionsKt">
+  <component name="RunManager">
     <configuration name="CollectionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
       <module name="TakeKotlinTour.main" />
@@ -124,7 +125,7 @@
       <workItem from="1711568567631" duration="9000" />
       <workItem from="1711568593819" duration="366000" />
       <workItem from="1711568970621" duration="300000" />
-      <workItem from="1711586222331" duration="1478000" />
+      <workItem from="1711586222331" duration="5701000" />
     </task>
     <servers />
   </component>
