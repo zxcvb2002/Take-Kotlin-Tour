@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f66b7de8-170b-47d6-afbe-27efd2047701" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Basic types.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Classes.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Collections.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Control flow.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Functions.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Hello world.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Lambda expressions.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Null Safety.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TakeKotlinTour/src/main/kotlin/Variables.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn the Kotlin programming language/LearnKotlinLanguage/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn the Kotlin programming language/LearnKotlinLanguage/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learn the Kotlin programming language/LearnKotlinLanguage/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn the Kotlin programming language/LearnKotlinLanguage/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learn the Kotlin programming language/LearnKotlinLanguage/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Learn the Kotlin programming language/LearnKotlinLanguage/src/main/kotlin/Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Learn the Kotlin programming language/LearnKotlinLanguage/src/main/kotlin/Kotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,6 +146,8 @@
       <workItem from="1712189118283" duration="2364000" />
       <workItem from="1712467431055" duration="73000" />
       <workItem from="1712467633342" duration="22000" />
+      <workItem from="1712505281823" duration="21000" />
+      <workItem from="1712505951304" duration="31000" />
     </task>
     <servers />
   </component>
